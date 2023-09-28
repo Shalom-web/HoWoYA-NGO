@@ -39,7 +39,7 @@ a:hover {
 #header {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('images/main.jpeg');
+    url('images/howoya/seminar/serminar.jpg');
   background-position: center;
   background-size: cover;
   font-size: xx-large;
@@ -51,10 +51,13 @@ a:hover {
   position: absolute;
 }
 .header-box h1 {
-  font-size: 40px;
-  color: white;
+  font-size: 60px;
+  color: rgb(136, 248, 229);
   font-weight: bold;
-  margin: 10px;
+  
+}
+p{
+  color: #ffffff;
 }
 /*header Image End*/
 
